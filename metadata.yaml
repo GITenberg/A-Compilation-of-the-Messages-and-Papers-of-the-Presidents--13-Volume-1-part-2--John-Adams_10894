@@ -1,0 +1,29 @@
+_repo: A-Compilation-of-the-Messages-and-Papers-of-the-Presidents--13-Volume-1-part-2--John-Adams_10894
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Richardson, James D. (James Daniel)
+    alias: Richardson, James Daniel
+    birthdate: 1843
+    deathdate: 1914
+    gutenberg_agent_id: '3697'
+    url: http://www.gutenberg.org/2009/agents/3697
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10894'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adams, John, 1735-1826'
+- !lcc 'J'
+- !lcsh 'Presidents -- United States'
+- !lcsh 'United States -- Politics and government'
+- !lcsh 'United States -- History -- Sources'
+- GITenberg
+title: "A Compilation of the Messages and Papers of the Presidents\r\nVolume 1, part\
+  \ 2: John Adams"
+url: http://www.gutenberg.org/ebooks/10894
